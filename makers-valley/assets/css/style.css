@@ -1,0 +1,133 @@
+.catamaran{
+  font-family: 'Catamaran', sans-serif;
+}
+
+
+.breadcrumb:before {
+    margin: 0 20px 0 15px;
+    content: " | ";
+}
+
+.breadcrumb:last-child {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.basics {
+    font-size: 20px;
+}
+
+.breadcrumb:active {
+    color: white;
+}
+
+.footer-btn {
+  background-color: rgb(93, 93, 93);
+  padding-bottom: 20px;
+  padding-top: 20px;
+  margin-bottom: 0px;
+}
+
+.the-basics {
+    margin-bottom: 0px;
+}
+
+.row.the-basics {
+    background-color: rgb(6, 172, 18);
+    color: white;
+}
+
+.project-margin {
+    margin-top: 0px;
+}
+
+#project-intro {
+    background-color: rgb(43, 43, 43);
+    color: white;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    border-color: rgb(34, 34, 34);
+}
+
+#create {
+    font-size: 60px;
+    text-align: center;
+}
+
+.nav-mar {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#project-header {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.project-form {
+    font-size: 16px !important;
+    font-weight: bold;
+}
+
+.project-question {
+    font-size: 16px;
+    margin-bottom: 0px;
+}
+
+#navbar-bkg {
+    background-color: rgb(6, 172, 18);
+}
+
+#nav-bkg {
+    background-color: rgb(43, 43, 43);
+}
+
+.border {
+    padding-top: 40px;
+    padding-bottom: 25px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    color: white;
+    background-image: url(../images/sackcloth-1280539_960_720.jpg);
+}
+
+.border-divider {
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 80%;
+    border-style: solid;
+    border-width: thin;
+    border-color: rgba(233, 225, 225, 0.61);
+    background-color: rgba(244, 244, 244, 0.52);
+    box-shadow: 0px 2px 2px rgba(231, 231, 231, 0.96);
+}
+
+.description-form {
+    font-size: 10px;
+    color: rgb(87, 87, 87);
+    margin-top: 0px;
+}
+
+.basics-check {
+    font-size: 16px;
+}
+
+.check-margin>p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 10px;
+}
+
+#ss-margin {
+    padding-left: 55px;
+}
+
+.breadcrumb.active {
+    color: white;
+}
+
+.ui-slider-range.ui-corner-all.ui-widget-header {
+    background-color: rgb(6, 172, 18);
+}
